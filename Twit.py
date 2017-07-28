@@ -7,8 +7,8 @@ argfile = str("liners.txt")
 
 
 #enter the corresponding information from your Twitter application:
-CONSUMER_KEY =  'D5yUVRdY9nTvK04kv8eoH6b2c'#keep the quotes, replace this with your consumer key
-CONSUMER_SECRET = 'Yx4gh6GWr9Wh0S6A0L9bbK9ZFuBSmdNu6hKqGkNYki6C1Ql8sX'
+CONSUMER_KEY =  '3e71WF8gjkJQZ9TuNMsj1XUtE'#keep the quotes, replace this with your consumer key
+CONSUMER_SECRET = 'ybqQXb5Y4auL2Twyq7wpO6jbPVy7ajUQWV6quntW53EJuIQtXn'
 ACCESS_KEY = '889483743429353472-T39k8ohUxOY6AZeptZ3JWzQCGaW1dK7'#keep the quotes, replace this with your access token
 ACCESS_SECRET = 'sLNkTKyg9dH3TiPgq1YShQRtMUfluWG9JBo5dBxH3tNJc'
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
